@@ -1,0 +1,18 @@
+/*TESTE PARA O EL GAMAL */
+
+/*Parâmetros da curva */
+n:100000000000000008142;
+p:4*n+3;
+a:-5;
+b:0;
+
+P:[5,10]; 
+q:n+1;  /*Ordem do ponto P, note que este número é primo*/
+
+
+/*Exemplo de chaves pública e privada*/
+
+cs:162588913176643120828;
+
+cp: [25752905259239772364,140157679868582247839];
+
